@@ -1,3 +1,0 @@
-# SaveAMedia Google AdSense Publisher Authorization (ads.txt)
-# Replace pub-XXXXXXXXXXXXXXXX with your approved AdSense Publisher ID
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
